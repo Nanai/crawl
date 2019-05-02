@@ -1,0 +1,45 @@
+enum: SP_OSCURI
+monster: MONS_OSCURI
+name: "Oscuri"
+short_name: "Os"
+adjective: "Oscuri"
+difficulty: Intermediate
+difficulty_priority: 80
+aptitudes:
+  xp: 0
+  hp: 1
+  mp_mod: 1
+  mr: 4
+  fighting: 3
+  short_blades: 1
+  long_blades: 1
+  axes: 1
+  maces_and_flails: 1
+  polearms: 1
+  staves: 1
+  slings: 1
+  bows: 1
+  crossbows: 1
+  throwing: 1
+  armour: 1
+  shields: 1
+  stealth: -3
+  unarmed_combat: 1
+  spellcasting: 2
+  conjurations: 1
+  hexes: 2
+  necromancy: 4
+  invocations: 1
+str: 9
+int: 7
+dex: 8
+levelup_stats: []
+levelup_stat_frequency: 4
+mutations:
+  1:
+    MUT_BERSERK: 1
+recommended_jobs:
+  - JOB_FIGHTER
+  - JOB_GLADIATOR
+  - JOB_NECROMANCER
+create_enum: false
