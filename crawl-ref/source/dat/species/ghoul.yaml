@@ -2,8 +2,7 @@ enum: SP_GHOUL
 monster: MONS_GHOUL
 name: Ghoul
 adjective: Ghoulish
-difficulty: Simple
-difficulty_priority: 30
+difficulty: false
 species_flags:
   - hairless
 aptitudes:
