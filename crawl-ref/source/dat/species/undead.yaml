@@ -1,0 +1,43 @@
+enum: SP_UNDEAD
+monster: MONS_UNDEAD
+name: Undead
+difficulty: Advanced
+difficulty_priority: 20
+aptitudes:
+  xp: 0
+  hp: 0
+  mp_mod: 0
+  mr: 5
+  armour: 1
+  dodging: -1
+  stealth: 2
+  unarmed_combat: 1
+  hexes: 2
+  necromancy: 1
+  invocations: -3
+  evocations: -1
+undead_type: US_UNDEAD
+str: 11
+int: 7
+dex: 7
+levelup_stat_frequency: 5
+mutations:
+  1:
+    MUT_NEGATIVE_ENERGY_RESISTANCE: 1
+    MUT_COLD_RESISTANCE: 1
+    MUT_UNBREATHING: 1
+  13:
+    MUT_NECRO_ENHANCER: 1
+  26:
+    MUT_NECRO_ENHANCER: 1
+fake_mutations:
+  - long: You do not eat or drink.
+    short: no food or potions
+  - long: Your flesh is vulnerable to fire.
+    short: fire vulnerability
+recommended_jobs:
+  - JOB_FIGHTER
+  - JOB_GLADIATOR
+  - JOB_NECROMANCER
+  - JOB_ASSASSIN
+create_enum: false
