@@ -4,7 +4,7 @@ name: "Sheng Draconian"
 short_name: "Dr"
 adjective: "Draconian"
 genus: "Draconian"
-difficulty: False
+difficulty: Easy
 species_flags:
   - draconian
 aptitudes:
@@ -34,4 +34,3 @@ mutations:
 fake_mutations:
   - long: You can breathe wild blasts of lightning.
     short: breathe lightning
-create_enum: false
