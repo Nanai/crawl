@@ -1,6 +1,6 @@
-enum: SP_WHITE_DRACONIAN
-monster: MONS_WHITE_DRACONIAN
-name: "White Draconian"
+enum: QUETZAL_DRACONIAN
+monster: MONS_QUETZAL_DRACONIAN
+name: "Quetzal Drakanite"
 short_name: "Dr"
 adjective: "Draconian"
 genus: "Draconian"
@@ -13,22 +13,18 @@ aptitudes:
   mp_mod: 0
   mr: 3
   fighting: 1
-  slings: -1
-  bows: -1
+  slings: 2
+  bows: 1
   crossbows: -1
-  throwing: -1
+  throwing: 1
   armour: False
   dodging: -1
-  spellcasting: -1
-  hexes: -1
-  charms: -1
   invocations: 1
-  # White Draconian specific
-  fire_magic: -2
-  ice_magic: 2
-str: 10
-int: 8
-dex: 6
+  ice_magic: 1
+  air_magic: 1
+str: 9
+int: 6
+dex: 9
 levelup_stat_frequency: 4
 mutations:
   1:
