@@ -2,8 +2,7 @@ enum: SP_HILL_ORC
 monster: MONS_ORC
 name: Hill Orc
 short_name: HO
-difficulty: Simple
-difficulty_priority: 100
+difficulty: False
 species_flags:
   - orcish
 aptitudes:
