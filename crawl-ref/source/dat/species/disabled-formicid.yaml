@@ -2,8 +2,7 @@ enum: SP_FORMICID
 monster: MONS_FORMICID
 name: "Formicid"
 genus: "Ant"
-difficulty: Advanced
-difficulty_priority: 70
+difficulty: FALSE
 aptitudes:
   xp: 1
   hp: 0
