@@ -4,7 +4,7 @@ name: "Quetzal Drakanite"
 short_name: "Dr"
 adjective: "Draconian"
 genus: "Draconian"
-difficulty: False
+difficulty: Easy
 species_flags:
   - draconian
 aptitudes:
