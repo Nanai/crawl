@@ -3,8 +3,7 @@ monster: MONS_DEMONSPAWN
 name: "Demonspawn"
 short_name: "Ds"
 adjective: "Demonic"
-difficulty: Intermediate
-difficulty_priority: 80
+difficulty: FALSE
 aptitudes:
   xp: -1
   hp: 0

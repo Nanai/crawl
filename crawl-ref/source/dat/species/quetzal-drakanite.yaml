@@ -1,10 +1,10 @@
-enum: QUETZAL_DRACONIAN
-monster: MONS_QUETZAL_DRACONIAN
+enum: QUETZAL_DRAKANITE
+monster: MONS_QUETZAL_DRAKANITE
 name: "Quetzal Drakanite"
 short_name: "Dr"
 adjective: "Draconian"
 genus: "Draconian"
-difficulty: False
+difficulty: Easy
 species_flags:
   - draconian
 aptitudes:
@@ -31,8 +31,9 @@ mutations:
     MUT_COLD_BLOODED: 1
   7:
     MUT_COLD_RESISTANCE: 1
+  14:
+    MUT_BIG_WINGS: 1
 fake_mutations:
-  - long: You can breathe waves of freezing cold.
-    short: breathe frost
-  - long: You can buffet flying creatures when you breathe cold.
+  - long: You can breathe hot, steaming air at your enemies.
+    short: breathe steam
 create_enum: false

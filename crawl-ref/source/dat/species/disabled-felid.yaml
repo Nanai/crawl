@@ -3,8 +3,7 @@ monster: MONS_FELID
 name: "Felid"
 adjective: "Feline"
 genus: "Cat"
-difficulty: Advanced
-difficulty_priority: 40
+difficulty: FALSE
 aptitudes:
   xp: -1
   hp: -4

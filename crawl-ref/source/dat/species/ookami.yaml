@@ -27,15 +27,9 @@ dex: 9
 levelup_stat_frequency: 4
 mutations:
   1:
-    MUT_SLOW: 1
-    MUT_HOP: 1
+    MUT_PAWS: 1
   13:
     MUT_HOP: 1
-fake_mutations:
-  - long: Shadows flee at your approach. (+LOS)
-    short: +LOS
-  - long: You can swim through water.
-    short: swims
 recommended_jobs:
   - JOB_FIGHTER
   - JOB_SKALD

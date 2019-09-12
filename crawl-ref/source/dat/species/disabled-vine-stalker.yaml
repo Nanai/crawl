@@ -2,8 +2,7 @@ enum: SP_VINE_STALKER
 monster: MONS_VINE_STALKER
 name: Vine Stalker
 short_name: VS
-difficulty: Advanced
-difficulty_priority: 100
+difficulty: FALSE
 aptitudes:
   xp: 0
   hp: -3

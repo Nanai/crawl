@@ -1,8 +1,7 @@
 enum: SP_HALFLING
 monster: MONS_HALFLING
 name: Halfling
-difficulty: Simple
-difficulty_priority: 50
+difficulty: FALSE
 aptitudes:
   xp: 1
   hp: -1

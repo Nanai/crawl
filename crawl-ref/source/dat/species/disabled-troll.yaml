@@ -2,8 +2,7 @@ enum: SP_TROLL
 monster: MONS_TROLL
 name: Troll
 adjective: Trollish
-difficulty: Simple
-difficulty_priority: 40
+difficulty: FALSE
 aptitudes:
   xp: -1
   hp: 3

@@ -3,8 +3,7 @@ monster: MONS_VAMPIRE
 name: Vampire
 short_name: Vp
 adjective: Vampiric
-difficulty: Advanced
-difficulty_priority: 90
+difficulty: FALSE
 aptitudes:
   xp: -1
   hp: 0
